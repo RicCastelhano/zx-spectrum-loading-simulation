@@ -1,5 +1,6 @@
-Download font face: https://font.download/font/zx-spectrum-7 by Flavie Hammes
+TO DO: add the mytical loading sound effects
 
+Download font face: https://font.download/font/zx-spectrum-7 by Flavie Hammes
 
 info about the loading cycles: https://shred.zone/cilla/page/440/r-tape-loading-error.html
 

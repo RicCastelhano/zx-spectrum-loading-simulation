@@ -1,3 +1,5 @@
+The blog post is [here](https://creativecode.ricardocastelhano.net/2024-01-01-zxsprectrum-loading-simulation/).
+
 TO DO: add the mytical loading sound effects
 
 Download font face: https://font.download/font/zx-spectrum-7 by Flavie Hammes
